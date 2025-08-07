@@ -1,0 +1,10 @@
+name = "patient-hill-f5cd"
+main = "src/index.js"
+compatibility_date = "2024-10-31"
+
+[[kv_namespaces]]
+binding = "SCORES"
+id = "24693893a2194c62aaccbd4e8ec06b4d"
+
+[observability.logs]
+enabled = false
